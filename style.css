@@ -14,7 +14,7 @@ body {
 }
 
 #main {
-  background: white, transparent;
+  background: transparent;
   width: 1100px;
   display: flex;
   flex-direction: column;
